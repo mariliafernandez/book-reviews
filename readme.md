@@ -4,7 +4,8 @@ Este repositório contém os códigos para as análises dos dados em `books_data
 
 ## Requisitos e Dependências
 As dependências deste projeto estão em `requirements.txt`.
-A pasta deve estar estruturada na seguinte maneira e com os arquivos `books_data.csv` e `Books_rating.csv` dentro de `/data`:
+
+A pasta deve estar estruturada na seguinte maneira e com os arquivos `books_data.csv` e `Books_rating.csv` dentro de `data/`:
 
 ```
 root/
